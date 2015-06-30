@@ -1,5 +1,5 @@
 class Main {
     func getColor() -> String {
-        return "red"
+        return "green"
     }
 }
